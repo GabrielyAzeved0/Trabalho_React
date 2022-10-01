@@ -1,0 +1,76 @@
+
+.form {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 550px;
+    font-weight: bold
+}
+
+.imagem {
+    width: 5px;
+}
+
+#tudo {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+#botao {
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: black
+}
+
+fieldset {
+    background-color: #86ccfa89;
+    width: 600px;
+    height: 600px;
+    padding-left: 10px;
+    padding-top: 15px;
+    color: black;
+    margin-left: 100px;
+    border-radius: 10px;
+    border-color:  #86ccfa89;;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(200, 200, 203, 0.248);
+    color: #FFF;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+#msg{
+    width: 550px;
+    height: 380px;
+    border-radius: 5px;
+}
+#enviar{ 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #00356a;
+    color: white;
+}
+fieldset h2{
+   color:  #000000;
+   font-weight: bold
+}
+

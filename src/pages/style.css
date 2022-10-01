@@ -1,0 +1,95 @@
+#um {
+    width: 200px;
+    object-position: 5px 10px;
+}
+
+#dois {
+    width: 200px;
+    object-position: 20px 10px;
+
+}
+
+#tres {
+    width: 200px;
+    object-position: 20px 10px;
+}
+
+#quatro {
+    width: 200px;
+    object-position: 20px 10px;
+}
+
+#cinco {
+    width: 200px;
+    object-position: 20px 10px;
+}
+
+#seis {
+    object-position: 20px 0px;
+}
+
+#sete,
+#oito {
+    width: 200px;
+    object-position: 20px 20px;
+}
+
+#nove {
+    width: 200px;
+    object-position: 20px 65px;
+}
+
+#dez {
+    object-position: 20px 2px;
+}
+
+.parteum {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.partedois {
+    text-align: center;
+    object-fit: contain;
+}
+
+h2 {
+    color: white;
+}
+
+#onze {
+    width: 200px;
+    object-position: 20px 10px;
+}
+
+#doze {
+    width: 200px;
+    object-position: 20px 0px;
+}
+
+#treze {
+    width: 200px;
+    object-position: 20px 0px;
+}
+
+#quartoze {
+    width: 200px;
+    object-position: 20px 0px;
+}
+
+.quinze {
+    width: 200px;
+    object-position: 20px 10px;
+}
+
+.partetres {
+    text-align: center;
+}
+#botaotres{
+    margin-top: 15px;
+    margin-left: 50%;
+}
+.avançar{
+    padding-left: 50%;
+    padding-top: 15px;
+}
